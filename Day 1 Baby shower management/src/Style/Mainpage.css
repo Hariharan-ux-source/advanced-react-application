@@ -1,0 +1,40 @@
+/* src/Style/MainPage.css */
+.navbar {
+    background-color: #1b1414;
+    overflow: hidden;
+    margin-left: 445px;
+    margin-top: -450px;
+    margin-right: 300px;
+    width: 1700px;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: max-content;
+  }
+  
+  .navbar li {
+    float: left;
+  }
+  
+  .navbar a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .content {
+    padding: 20px;
+    background-image: url("https://img.freepik.com/premium-photo/baby-shower-invitation-5x7-card-mockup-with-baby-boy-accessories-bodysuit-nipple-baby-s-dummy-gift-box-with-copy-space-blue-pastel-color-background_92695-1973.jpg");
+  }
+  
