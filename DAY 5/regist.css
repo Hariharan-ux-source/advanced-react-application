@@ -1,0 +1,69 @@
+/* Add this CSS code to style your login page */
+
+.eventz {
+  font-family: Arial, sans-serif;
+
+  background-color: #0b0a0b;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-image: url("C:\Users\harih\Desktop\advanced app dev\baby_bliss\src\assets\image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ui1{
+  background-color: #b8d5e3;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 70px rgba(14, 13, 13, 0.1);
+  margin-top: 100px;
+  margin-left: 600px;
+}
+ 
+
+h2 {
+  color: #333;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #2562d4;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  margin-top: 10px;
+}
+
+a {
+  color: #2a137e;
+  text-decoration: underline;
+}

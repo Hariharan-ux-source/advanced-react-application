@@ -1,0 +1,240 @@
+/* body{
+    background-color: #E4E4DC;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+* {
+    box-sizing: border-box;
+  }
+  .theme2:hover{
+    transform: scale(1.1);
+  z-index: 2;
+ 
+  color: black;
+		box-shadow: 2px 2px 2px #000;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+  }
+  .theme1:hover{
+    transform: scale(1.1);
+  z-index: 2;
+ 
+  color: black;
+		box-shadow: 2px 2px 2px #000;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+  }
+  .theme3:hover{
+    transform: scale(1.1);
+  z-index: 2;
+ 
+  color: black;
+		box-shadow: 2px 2px 2px #000;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+  }
+  
+  .theme4:hover{
+    transform: scale(1.1);
+  z-index: 2;
+ 
+  color: black;
+		box-shadow: 2px 2px 2px #000;
+ 
+ 
+  box-shadow: 2px 2px 2px white;
+  }
+  .txt{
+    margin-top: 320px;
+    font-size:20px;
+    margin-left: 40px;
+    color: dimgray;
+  }
+  .txtcen{
+    margin-top: 320px;
+    padding-top: 10px;
+    font-size:20px;
+    margin-left: 40px;
+    color: dimgray;
+  }
+
+  .txt1{
+    margin-top: 320px;
+    font-size:20px;
+    margin-left: 14px;
+    text-align: center;
+    color: dimgray;
+  }
+  .txtt{
+    margin-top: 330px;
+    font-size:20px;
+    margin-left: 69px;
+    color: dimgray;
+    text-align: left;
+    
+
+  }
+  .txtc{
+    margin-top: 330px;
+    font-size:30px;
+    margin-left: 69px;
+    color: dimgray;
+    text-align: left;
+
+  }
+  
+
+.theme1{
+    
+    border: #000;
+    margin-left: 275px;
+    background: url("https://images.unsplash.com/photo-1523438885200-e635ba2c371e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2VkZGluZyUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D");
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-weight: 400;
+    display: flex;
+    font-size: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    color:black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:200px;
+    height: 400px;
+    border-radius: 100px;
+    
+    /* margin-top: 30px; */
+    
+    
+}  
+.hmtxt{
+  color:black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:880px;
+    border-radius: 15px;
+    background-color: aliceblue;
+
+}
+.slog{
+  margin-left: 550px;
+  margin-top: -300px;
+  text-align: justify;
+  font-size: 100px;
+ 
+}
+.desch1{
+  height: 300px;
+
+ margin-left: 355px;
+ background: url("https://images.inc.com/uploaded_files/image/1920x1080/getty_639000942_327641.jpg");
+ background-size: contain;
+ /* background-color: rgb(54, 54, 54); */
+    background-repeat: no-repeat;
+  border: #000;
+   
+    margin-top: 30px;
+    display: flex;
+    font-weight: 400;
+    display: flex;
+    font-size: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    color:dimgray;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:880px;
+    border-radius: 15px;
+
+}
+.txtd{
+  margin-top: 140px;
+    font-size:17px;
+    margin-left: 69px;
+    color: dimgray;
+    text-align: left;
+}
+
+
+
+.desch{
+  height: 300px;
+
+ margin-left: 325px;
+  background: url("https://images.unsplash.com/photo-1511795409834-ef04bbd61622?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZXZlbnQlMjBwbGFubmluZ3xlbnwwfHwwfHx8MA%3D%3D");
+    background-size: contain;
+    background-repeat: no-repeat;
+  border: #000;
+   
+    margin-top: 30px;
+    display: flex;
+    font-weight: 400;
+    display: flex;
+    font-size: 30px;
+    font-family: 'Fira Sans', sans-serif;
+    color:black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:1000px;
+    border-radius: 15px;
+    height: 400px;
+}
+.theme2{
+    border: #000;
+    margin-left: 525px;
+    background: url("https://www.confettiandbliss.com/wp-content/uploads/2015/07/Birthday-Bash1-1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    font-family: 'Fira Sans', sans-serif;
+    color:black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:200px;
+    height: 400px;
+    border-radius: 100px;
+    
+    
+    margin-top: -400px;
+
+}
+.theme3{
+    border: #000;
+    margin-left: 775px;
+    background: url("C:\Users\harih\Desktop\advanced app dev\baby_bliss\src\assets\Baby.jpg");
+
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    font-family: 'Fira Sans', sans-serif;
+    color:black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:200px;
+    height: 400px;
+    border-radius: 100px;
+   
+    margin-top: -400px;
+
+
+}
+.theme4{
+    border: #000;
+    margin-left: 1025px;
+    background: url("C:\Users\harih\Desktop\advanced app dev\baby_bliss\src\assets\success.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    font-family: 'Fira Sans', sans-serif;
+    color:black;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    width:200px;
+    height: 400px;
+    border-radius: 100px;
+   
+    margin-top: -400px;
+}
+.hom{
+    margin-top: 60px;
+    margin-left: 70px;
+}
