@@ -1,0 +1,45 @@
+/* Navbar.css */
+
+.navbar {
+    background-color: #f8f9fa; /* Set your desired background color */
+    padding: 20px; /* Adjust the padding as needed */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  }
+  
+  .navbar-brand {
+    font-size: 20px; /* Set the font size for the brand */
+  }
+  
+  .navbar-toggler {
+    border: none; /* Remove the border from the toggle button */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Move the navigation items to the right */
+  }
+  
+  .nav-link {
+    margin-right: 20px; 
+    color: #0d75dd; 
+    font-size: 18px; 
+    text-decoration: none; 
+  }
+  
+  .nav-link:hover {
+    color: #1569c1; 
+  }
+  
+  /* Media query for smaller screens (adjust as needed) */
+  @media (max-width: 768px) {
+    .navbar-nav {
+      flex-direction: column; /* Stack navigation items vertically on smaller screens */
+      text-align: center; /* Center-align text on smaller screens */
+    }
+  
+    .nav-link {
+      margin-right: 0; /* Remove right margin on smaller screens */
+      margin-bottom: 10px; /* Add bottom margin between navigation items on smaller screens */
+      text-decoration: none;
+    }
+  }
+  

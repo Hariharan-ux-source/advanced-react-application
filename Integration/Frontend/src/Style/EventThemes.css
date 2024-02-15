@@ -1,0 +1,86 @@
+
+  
+
+#event-themes-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  margin-left:-100px;
+}
+
+.them1 {
+  text-align: center;
+  max-height: 250px;
+  max-width: 250px;
+  transition: transform 0.3s ease-in-out; 
+}
+
+.them1 h1{
+  margin-left: 80px;
+  font-style: italic;
+  font-weight: 400;
+} 
+.them2 h1{
+  margin-left: 80px;
+  font-style: italic;
+  font-weight: 400;
+} 
+.them3 h1{
+  margin-left: 80px;
+  font-style:italic;
+  font-weight: 400;
+
+} 
+.them4 h1{
+  margin-left: 80px;
+  font-style: italic;
+  font-weight: 400;
+
+} 
+.them2 {
+  text-align: center;
+  max-height: 250px;
+  max-width: 250px;
+  transition: transform 0.3s ease-in-out; 
+}
+.them3 {
+  text-align: center;
+  max-height: 250px;
+  max-width: 250px;
+  transition: transform 0.3s ease-in-out; 
+}
+.them4 {
+  text-align: center;
+  max-height: 250px;
+  max-width: 250px;
+  transition: transform 0.3s ease-in-out; 
+}
+
+.them1:hover,.them2:hover,.them3:hover,.them4:hover {
+  transform: scale(1.05); /* Adjust the scaling factor as needed */
+}
+
+ 
+
+.theme:hover img {
+  transform: scale(1.1); 
+  height:1000px;/* Adjust the scaling factor for the image on hover */
+}
+
+.theme p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+  margin-left: 30px;
+  justify-content: center;
+  padding: 13px;
+}
+.theme-image{
+  
+    width: 350px; /* Adjust as needed */
+    height: 400px; /* Adjust as needed */
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+  
+}
